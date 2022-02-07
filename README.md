@@ -1,7 +1,7 @@
 What is it the citizens do to get the Bus as a primary mode of commute for bengaluru with reduced price/head - excellent service with access, safety, convenience.
 
 
-**Open Sourcing Public Transport System, Organization, Architecture Design in India.**
+**Namma Bussu - Open Sourcing Public Transport System, Organization, Architecture Design in India.**
 
 **Introduction**
 
